@@ -1,0 +1,44 @@
+# User-specific files
+*.suo
+*.user
+*.sln.docstates
+*.sln
+*.csproj
+*.config
+
+# IDE directories
+Battery/Properties/*
+
+# Build results
+
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+
+# =========================
+# Windows detritus
+# =========================
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# SASS Compiler cache
+.sass-cache
+
+# Visual Studio temp something
+.vs/

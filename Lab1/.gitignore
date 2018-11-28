@@ -1,0 +1,10 @@
+$ cat .gitignore
+*.[oa]
+*`
+*.sln
+*.suo
+*.csproj
+App.config
+PCI/bin/*
+PCI/obj/*
+PCI/properties/*
